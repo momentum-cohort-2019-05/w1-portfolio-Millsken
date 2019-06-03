@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<html> 
+    <head>
+         <title>My website</title>
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                 <h1>My website</h1>
+        
+        </div>
+        <div id="content">
+             <div id="nav">
+                  <h3>Navigation</h3>
+                  <ul>
+                     <li>Home</li>
+                     <li>About</li>
+                     <li>contact</li>
+
+        </div>
+
+        <div id="main">
+             <h2>Home page</h2>
+             <h2>Home page</h2>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</P>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+
+        </div>
+        <div id="footer">
+             Copy right &copy; 2019 Mills
+
+        </div>
+    </body> 
+</html>
+      
+
+
